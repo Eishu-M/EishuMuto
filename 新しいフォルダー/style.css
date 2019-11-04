@@ -1,0 +1,146 @@
+header{
+    position:fixed;
+    top:0;
+}
+header a{
+color:black;
+}
+.header-right{
+    margin-left:900px;
+}
+.header-right li{
+float:left;
+list-style:none;
+margin-right:30px;
+}
+.header-right:hover{
+    cursor:pointer;
+}
+
+.top-wrapper{
+    font-weight:bold;
+    margin-top:150px;
+    display: block;
+    text-align:center;
+}
+.container{
+    margin:0 auto;
+}
+.top-wrapper h1{
+    font-size: 7.14286vw;
+}
+.top-wrapper p{
+    font-size: 1.85714vw;
+    line-height: 1.96154;
+    letter-spacing: -.04em;
+    font-weight: 700;
+}
+
+.main-wrapper{
+    text-align:center;
+}
+.main-wrapper h2{
+    display: inline-block;
+    margin-bottom: 1.42857vw;
+    font-size: 2.14286vw;
+    text-decoration:underline black;
+}
+.main-wrapper h3{
+    margin:100px 0 20px 0;
+}
+.do{
+    float:left;
+    display:block;
+    width:33%;
+    font-size: 1vw;
+    line-height: 1.85714;
+    letter-spacing: .03em;
+    font-weight:bold;  
+}
+
+.musiums{
+    margin-top:400px;
+}
+.container{
+    width:1100px;
+    margin:0 auto;
+}
+.musiums h3{
+    font-size: 1.43vw;
+    text-align: center;
+    margin-bottom:80px;
+}
+.musium{
+    margin-bottom:50px;
+    width: 50%;
+    display: block;
+    float:left;
+}
+.musiums img{
+    width: 38.21429vw;
+}
+.explain{
+    margin-bottom: 3.5vw;
+    font-weight: 700;
+    letter-spacing: 0;
+    font-size: 1vw;
+    line-height: 1.85714;
+}
+.detail{
+    font-size: 1vw;
+}
+.location{
+    font-size: .85714vw;
+    color:grey;
+}
+
+.team{
+  margin-top:400px;
+}
+.team h3{
+    text-align:center;
+    
+}
+
+.member{
+    float:left;
+    width:33.333%;
+}
+.member img{
+    width:300px;
+}
+.jpn-neame{
+    margin-bottom:2px;
+    font-size: 1.14286vw;
+    font-weight: 900px;
+
+}
+.eng-name{
+    margin-bottom: .64286vw;
+    font-size: .85714vw;
+    line-height: 1;
+    opacity: 0.5;
+}
+.role{
+    margin-bottom: .85714vw;
+    font-size: 100%;
+    font-weight: 400;
+}
+.status{
+    font-size: .85714vw;
+    line-height: 1.58333;
+    letter-spacing: 0;
+    width:85%;
+}
+
+.wanted{
+    text-align:center;
+}
+.wanted a{
+    display:block;
+    background-color: #f9e1e3;
+    width: 20.28571vw;
+}
+.wanted a:hover{
+    opacity:0.5;
+}
